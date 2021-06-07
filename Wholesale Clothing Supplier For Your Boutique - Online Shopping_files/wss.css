@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'wss';
+  src: url('wss.eot?83429298');
+  src: url('wss.eot?83429298#iefix') format('embedded-opentype'),
+       url('wss.woff2?83429298') format('woff2'),
+       url('wss.woff?83429298') format('woff'),
+       url('wss.ttf?83429298') format('truetype'),
+       url('wss.svg?83429298#wss') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ [class^="wss-"]:before, [class*=" wss-"]:before {
+  font-family: "wss";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-left: .2em;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wss-sterile-packet:before { content: '\e800'; } /* '' */
+.wss-cargo:before { content: '\e801'; } /* '' */
+.wss-payment:before { content: '\e802'; } /* '' */
+.wss-free-cargo:before { content: '\e803'; } /* '' */
+.wss-search:before { content: '\e804'; } /* '' */
+.wss-favorite:before { content: '\e805'; } /* '' */
+.wss-shopping-bag:before { content: '\e806'; } /* '' */
+.wss-wholesale-p:before { content: '\e807'; } /* '' */
+.wss-wholesale:before { content: '\e808'; } /* '' */
+.wss-user:before { content: '\e809'; } /* '' */
+.wss-register:before { content: '\e80a'; } /* '' */
+.wss-xml:before { content: '\e80b'; } /* '' */
+.wss-whatsapp:before { content: '\e80c'; } /* '' */
+.wss-location:before { content: '\e80d'; } /* '' */
+.wss-empty-cart:before { content: '\e80e'; } /* '' */
+.wss-favorite-fill:before { content: '\e80f'; } /* '' */
+.wss-cargo-o:before { content: '\e810'; } /* '' */
+.wss-comment:before { content: '\e811'; } /* '' */
+.wss-size-table:before { content: '\e812'; } /* '' */
+.wss-size-ruler:before { content: '\e813'; } /* '' */
+.wss-company:before { content: '\e814'; } /* '' */
+.wss-safe-payment:before { content: '\e815'; } /* '' */
+.wss-discounted:before { content: '\e816'; } /* '' */
+.wss-sameday-cargo:before { content: '\e817'; } /* '' */
+.wss-paypal:before { content: '\e818'; } /* '' */
+.wss-delivery:before { content: '\e819'; } /* '' */
+.wss-pay-at-door:before { content: '\e81a'; } /* '' */
+.wss-free-change:before { content: '\e81b'; } /* '' */
+.wss-free-shipping:before { content: '\e81c'; } /* '' */
+.wss-order:before { content: '\e81d'; } /* '' */
+.wss-message:before { content: '\e81e'; } /* '' */
+.wss-lock:before { content: '\e81f'; } /* '' */
+.wss-star:before { content: '\e820'; } /* '' */
+.wss-address-info:before { content: '\e821'; } /* '' */
+.wss-file:before { content: '\e822'; } /* '' */
+.wss-building:before { content: '\e823'; } /* '' */
+.wss-credit-card:before { content: '\e824'; } /* '' */
+.wss-logout:before { content: '\e825'; } /* '' */
+.wss-price-alert:before { content: '\e826'; } /* '' */
+.wss-profile:before { content: '\e827'; } /* '' */
+.wss-stock-alert:before { content: '\e828'; } /* '' */
+.wss-gift:before { content: '\e829'; } /* '' */
+.wss-madeinturkey:before { content: '\e82a'; } /* '' */
+.wss-landed-prices:before { content: '\e82b'; } /* '' */
+.wss-moq-o:before { content: '\e82c'; } /* '' */
+.wss-open-pack-over:before { content: '\e82d'; } /* '' */
+.wss-free-shipping-to-usa:before { content: '\e82e'; } /* '' */
+.wss-pinterest-circled:before { content: '\f0d2'; } /* '' */
+.wss-youtube-play:before { content: '\f16a'; } /* '' */
+.wss-vkontakte:before { content: '\f189'; } /* '' */
+.wss-cc-paypal:before { content: '\f1f4'; } /* '' */
+.wss-facebook:before { content: '\f300'; } /* '' */
+.wss-twitter-bird:before { content: '\f303'; } /* '' */
+.wss-odnoklassniki:before { content: '\f30c'; } /* '' */
+.wss-blogger:before { content: '\f314'; } /* '' */
+.wss-linkedin:before { content: '\f31a'; } /* '' */
+.wss-instagram-filled:before { content: '\f31f'; } /* '' */
